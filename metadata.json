@@ -1,0 +1,6 @@
+{
+  "name": "جسر الصحة",
+  "description": "تطبيق مبادرة خيرية لربط المرضى بالأطباء الاستشاريين المتطوعين للحصول على رأي طبي ثان وتوجيه طبي عن بعد للمناطق النائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
